@@ -25,7 +25,7 @@ At the end of a stage, that time spent is compared to the average, and bonus poi
 Extra lives are given at 10,000, 30,000, and 50,000 points; thereafter, no more lives are given. The game ends when the last patrol car is destroyed. The game can be continued, but points scored from one game do not carry over. 999,990 points is the maximum high score that can be achieved; players can exceed this score, but it "turns over" if they do.
 
 <h2 id="preview"> :technologist: Preview</h2>
-To run the script simply run the <b>main.py</b> with the command <b>python main.py</b> .
+To run the script simply run the <b>launcher.py</b> with the command <b>python launcher.py</b> .
 <br />
 <br />
 
